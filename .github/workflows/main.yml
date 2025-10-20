@@ -1,0 +1,6 @@
+jobs:
+  build:
+  runs-on: ubuntu-latest
+   steps:
+    - name: Run Python script
+        run: python command.py 
